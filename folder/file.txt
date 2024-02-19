@@ -3,3 +3,4 @@ changes
 changes 2
 change conflict 
 changes in file-c
+change for remote
