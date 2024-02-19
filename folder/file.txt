@@ -1,3 +1,4 @@
 first file content
 changes
 changes 2
+changes in file-c
